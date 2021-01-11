@@ -3,6 +3,10 @@
     padding: 0px;
 }
 
+a {
+    border: none;
+}
+
 header {
     background: url("/media/images/headbg.jpg");
     background-size: 100%;
@@ -67,6 +71,10 @@ main {
 #namePrompt {
     text-align: center;
     margin-top: 5vh;
+}
+
+#myport {
+    margin-left: 45.75%;
 }
 
 .date {
